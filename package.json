@@ -1,0 +1,19 @@
+{
+  "name": "nodemysqlexpress",
+  "version": "1.0.0",
+  "description": "mgrNode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.4",
+    "node-oauth2-server": "^3.0.1",
+    "sequelize": "^4.41.2",
+    "sha2": "^1.0.2"
+  }
+}
