@@ -1,5 +1,3 @@
-//konfiguraja sequlize
-
 'use strict';
 
 var fs = require('fs');
